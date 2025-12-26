@@ -1,0 +1,7 @@
+{
+  "name": "Quick Notes AI",
+  "description": "An intelligent note-taking application with voice-to-text, AI-powered categorization, and natural language search.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
